@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Gastronomy
+
+  Created by Daniel on 10.11.20.
+  
+*/
+
+"Discovery new places" = "Discovery new places";
+"ratings" = "ratings";
+"Free delivery" = "Free delivery";
+
+"Top categories" = "Top categories";
+"Pizza" = "Pizza";
+"Burgers" = "Burgers";
+"Steak" = "Steak";
+"Pasta" = "Pasta";
+"places" = "places";
+
+"Explore" = "Explore";
+"My order" = "My order";
+"Favorite" = "Favorite";
+"Profile" = "Profile";

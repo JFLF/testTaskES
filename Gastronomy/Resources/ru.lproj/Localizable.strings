@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  Gastronomy
+
+  Created by Daniel on 10.11.20.
+  
+*/
+
+"Discovery new places" = "Открытие новых мест";
+"ratings" = "оценок";
+"Free delivery" = "Бесплатная доставка";
+
+"Top categories" = "Лучшие категории";
+"Pizza" = "Пицца";
+"Burgers" = "Бургеры";
+"Steak" = "Стейк";
+"Pasta" = "Макароны";
+"places" = "мест";
+
+"Explore" = "Исследовать";
+"My order" = "Мой заказ";
+"Favorite" = "Любимые";
+"Profile" = "Профиль";
